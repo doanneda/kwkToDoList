@@ -11,6 +11,7 @@
 		BD017A7C2BEAC39E00704519 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD017A7B2BEAC39E00704519 /* ContentView.swift */; };
 		BD017A7E2BEAC39F00704519 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD017A7D2BEAC39F00704519 /* Assets.xcassets */; };
 		BD017A812BEAC39F00704519 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD017A802BEAC39F00704519 /* Preview Assets.xcassets */; };
+		BD017A882BEAC5FA00704519 /* NewToDoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD017A872BEAC5FA00704519 /* NewToDoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		BD017A7B2BEAC39E00704519 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BD017A7D2BEAC39F00704519 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD017A802BEAC39F00704519 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BD017A872BEAC5FA00704519 /* NewToDoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewToDoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				BD017A792BEAC39E00704519 /* ToDoListApp.swift */,
 				BD017A7B2BEAC39E00704519 /* ContentView.swift */,
+				BD017A872BEAC5FA00704519 /* NewToDoView.swift */,
 				BD017A7D2BEAC39F00704519 /* Assets.xcassets */,
 				BD017A7F2BEAC39F00704519 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD017A882BEAC5FA00704519 /* NewToDoView.swift in Sources */,
 				BD017A7C2BEAC39E00704519 /* ContentView.swift in Sources */,
 				BD017A7A2BEAC39E00704519 /* ToDoListApp.swift in Sources */,
 			);
